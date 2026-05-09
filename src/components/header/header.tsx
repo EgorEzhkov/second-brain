@@ -1,7 +1,7 @@
 const Header = () => {
   return (
-    <header>
-      <div>Это будет мой header</div>
+    <header className="flex pt-4">
+      <h1 className="text-2xl font-bold">Это будет мой header</h1>
     </header>
   );
 };
