@@ -1,5 +1,7 @@
 const Sidebar = () => {
-  return <div className="">Будущий sidebar</div>;
+  return (
+    <div className="pl-3.5">Будущий sidebar</div>
+  );
 };
 
 export default Sidebar;
