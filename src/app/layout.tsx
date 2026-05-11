@@ -36,7 +36,7 @@ export default function RootLayout({
         <div className="flex min-h-screen flex-1 flex-col items-center">
           <Header />
 
-          <main className="flex w-full flex-1 items-center justify-center border-2 border-indigo-600/60">
+          <main className="flex w-full flex-1 border-2 border-indigo-600/60">
             {children}
           </main>
 
